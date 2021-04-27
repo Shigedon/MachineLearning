@@ -1,0 +1,4 @@
+name: ml_note
+channels:
+  - defaults
+prefix: /home/root_admin/miniconda3/envs/ml_note
